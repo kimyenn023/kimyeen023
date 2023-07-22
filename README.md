@@ -1,5 +1,5 @@
-# kimyeen023
+# Hi there
 
-![kimyeen023's github stats](https://github-readme-stats.vercel.app/api?username=kimyeen023&show_icons=true&theme=tokyonight)
+![kimyeen023's github stats](https://github-readme-stats.vercel.app/api?username=kimyeen&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeen023&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyeen&layout=compact)
