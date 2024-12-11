@@ -5,9 +5,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn023&layout=compact&theme=dark)
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yenn023"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/{yenn023}"/>
 </a>
