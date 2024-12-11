@@ -8,6 +8,6 @@
   <img
     src="https://render.gitanimals.org/farms/yenn023?pet-id=654698749860895970"
     width="600"
-    height="120"
+    height="240"
   />
 </a>
