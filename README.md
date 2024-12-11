@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn023&layout=compact&theme=dark)
 
-<div align=center>
-
-  [![gitanimals](https://render.gitanimals.org/farms/yenn023)](https://github.com/devxb/gitanimals)
-
-</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{yenn023}"/>
+</a>
